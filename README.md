@@ -1,2 +1,3 @@
 # 2024-JAN
-odin
+first odin github repo!
+
